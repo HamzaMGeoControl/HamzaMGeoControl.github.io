@@ -50,7 +50,7 @@ GEM
       time (< 1.0)
     csl-styles (2.0.2)
       csl (~> 2.0)
-    css_parser (2.2.0)
+    css_parser (1.17.1)
       addressable
     cssminify2 (2.1.0)
     csv (3.3.5)
@@ -239,7 +239,7 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
-  css_parser
+  css_parser (= 1.17.1)
   feedjira
   httparty
   jekyll
@@ -279,7 +279,7 @@ CHECKSUMS
   crass (1.0.6) sha256=dc516022a56e7b3b156099abc81b6d2b08ea1ed12676ac7a5657617f012bd45d
   csl (2.2.1) sha256=624352f1f6f51f1e0b155bd2501ce423f03264495ec259e65c26e00872a195a2
   csl-styles (2.0.2) sha256=a48007d8a60307825de140dc2adaacc0b7186f2d1042f7e839eb47fce051de98
-  css_parser (2.2.0) sha256=23d1b247d7bc78cb2f2fe54629fb755e68d3004f1d1bd5c66d5096d42bff6325
+  css_parser (1.17.1) sha256=eb730f2d26591a843e52bd3d0efd76abdfeec8bad728e0b2ac821fc10bb018e6
   cssminify2 (2.1.0) sha256=406a0b95fdaab60132c6f1fbb47b4a30f9572d2ef523f806fb94a530d78c2bb1
   csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
   date (3.5.1) sha256=750d06384d7b9c15d562c76291407d89e368dda4d4fff957eb94962d325a0dc0
