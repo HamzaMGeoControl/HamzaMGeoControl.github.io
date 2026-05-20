@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
+    # gem 'wdm', '>= 0.1.0'
+    gem 'wdm', '>= 0.1.0', platforms: [:mingw, :x64_mingw, :mswin]
     gem 'ostruct'
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -9,7 +10,7 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
-   # gem 'jekyll-jupyter-notebook'
+    # gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
