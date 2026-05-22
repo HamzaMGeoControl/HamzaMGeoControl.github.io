@@ -194,25 +194,30 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  text-align: center;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 0.95rem;
 
     p {
-      display: inline-block;
+      display: block;
       margin: 0;
     }
   }
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 0;
+  float: none;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 0;
+  float: none;
 }
 
 @media (min-width: 576px) {
@@ -226,6 +231,7 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+
 
 .post-description {
   margin-bottom: 2rem;
