@@ -666,7 +666,7 @@ footer.sticky-bottom {
   margin-top: 2rem;
 
   h1 {
-    color: var(--global-theme-color);
+    color: var(--global-theme-color); 
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
@@ -836,6 +836,11 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+	
+  h2 span {
+    color: #ff6600;  /* Change to your desired color */
+  }
+ 
 }
 
 // Rouge Color Customization
