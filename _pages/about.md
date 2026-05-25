@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: PhD Candidate in Mechanical Engineering, Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology (NJIT)
 
 profile:
   align: right
@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Writing again! Let's startttttttttt. I'll first make changes hereeeee locally. Then will publish these online. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi, I am a PhD Candidate in Mechanical Engineering in the [Department of Mechanical and Industrial Engineering](https://mie.njit.edu) at the New Jersey Institute of Technology [(NJIT)](https://www.njit.edu), located in NJ, USA.  
+I did my MSc in Mathematics from the [Department of Mathematics](https://sbasse.lums.edu.pk/department-of-mathematics) in the Syed Babar Ali School of Science and Engineering [(SBASSE)](https://sbasse.lums.edu.pk/) at the Lahore University of Management Sciences [(LUMS)](https://www.lums.edu.pk/), Lahore, Pakistan. Prior to that, I completed my Bachelor's in Electrical Engineering (BEE) from the School of Electrical Engineering and Computer Science [(SEECS)](https://seecs.nust.edu.pk/) at the National University of Sciences and Technology [(NUST)](https://nust.edu.pk/), Islamabad, Pakistan.
+  
