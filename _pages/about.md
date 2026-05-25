@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a PhD Candidate in Mechanical Engineering in the [Department of Mechanical and Industrial Engineering](https://mie.njit.edu) at the New Jersey Institute of Technology [(NJIT)](https://www.njit.edu), located in NJ, USA.  
+Hi, I am a PhD Candidate in Mechanical Engineering in the [Department of Mechanical and Industrial Engineering](https://mie.njit.edu) at the New Jersey Institute of Technology [(NJIT)](https://www.njit.edu), located in NJ, USA. My PhD advisor is [Dr. Adeel Akhtar](https://adeelakhtar.com/).  
 
 I did my MSc in Mathematics from the [Department of Mathematics](https://sbasse.lums.edu.pk/department-of-mathematics) in the Syed Babar Ali School of Science and Engineering [(SBASSE)](https://sbasse.lums.edu.pk/) at the Lahore University of Management Sciences [(LUMS)](https://www.lums.edu.pk/), Lahore, Pakistan. Prior to that, I completed my Bachelor's in Electrical Engineering (BEE) from the School of Electrical Engineering and Computer Science [(SEECS)](https://seecs.nust.edu.pk/) at the National University of Sciences and Technology [(NUST)](https://nust.edu.pk/), Islamabad, Pakistan.
 
